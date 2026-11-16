@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EquipmentManagement.API/EquipmentManagement.API.csproj" />
+  <Project Path="EquipmentManagement.WPF/EquipmentManagement.WPF.csproj" />
+</Solution>
